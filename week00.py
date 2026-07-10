@@ -1,0 +1,1 @@
+print('week0 is completed and now we are going to week1')
